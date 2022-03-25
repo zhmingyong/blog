@@ -221,11 +221,11 @@ Creating nginx             ... done
 
 # 五，登陆
 
-![harbor-1](images\harbor-1.png)
+![harbor-1](images/harbor-1.png)
 
 
 
-![](images\harbor-2.png)
+![](images/harbor-2.png)
 
 # 六，其它命令
 
